@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/leaflet": "^1.9.17",
     "axios": "^1.8.4",
-    "framer-motion": "^12.23.6",
+    "framer-motion": "^12.6.3",
     "leaflet": "^1.9.4",
     "next": "^15.2.4",
     "react": "^19.0.0",

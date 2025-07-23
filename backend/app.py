@@ -5,6 +5,8 @@ import base64
 import logging
 import json
 import time
+import os
+os.add_dll_directory(r"C:\libvips\vips-dev-8.17\bin")
 from dotenv import load_dotenv
 from detectweapons import ThreatDetectionSystem
 import torch
